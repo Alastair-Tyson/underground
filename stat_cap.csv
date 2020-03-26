@@ -1,0 +1,504 @@
+line,station_1,station_2
+bakerloo,Harrow & Wealdstone,Kenton
+bakerloo,Kenton,South Kenton
+bakerloo,South Kenton,North Wembley
+bakerloo,North Wembley,Wembley Central
+bakerloo,Wembley Central,Stone Bridge Park
+bakerloo,Stone Bridge Park,Harlesden
+bakerloo,Harlesden,Willesden Junction
+bakerloo,Willesden Junction,Kensal Green
+bakerloo,Kensal Green,Queens Park
+bakerloo,Queens Park,Kilburn Park
+bakerloo,Kilburn Park,Maidavale
+bakerloo,Maidavale,Warwick Avenue
+bakerloo,Warwick Avenue,Paddington
+bakerloo,Paddington,Edgware Road
+bakerloo,Edgware Road,Marylebone
+bakerloo,Marylebone,Baker Street
+bakerloo,Baker Street,Regents Park
+bakerloo,Regents Park,Oxford Circus
+bakerloo,Oxford Circus,Piccadilly Circus
+bakerloo,Piccadilly Circus,Charing Cross
+bakerloo,Charing Cross,Embankment
+bakerloo,Embankment,Waterloo
+bakerloo,Waterloo,Lambeth North
+bakerloo,Lambeth North,Elephant & Castle
+central,West Ruislip,Ruislip Gardens
+central,Ruislip Gardens,South Ruislip
+central,South Ruislip,Northolt
+central,Northolt,Greenford
+central,Greenford,Perivale
+central,Perivale,Hanger Lane
+central,Hanger Lane,North Acton
+central,North Acton,West Acton
+central,West Acton,Ealing Broadway
+central,North Acton,East Acton
+central,East Acton,White City
+central,White City,Shepherds Bush
+central,Shepherds Bush,Holland Park
+central,Holland Park,Nottinghill Gate
+central,Nottinghill Gate,Queensway
+central,Queensway,Lancaster Gate
+central,Lancaster Gate,Marble Arch
+central,Marble Arch,Bond Street
+central,Bond Street,Oxford Circus
+central,Oxford Circus,Tottenham Court Road
+central,Tottenham Court Road,Holborn
+central,Holborn,Chancery Lane
+central,Chancery Lane,St Pauls
+central,St Pauls,Bank
+central,Bank,Liverpool Street
+central,Liverpool Street,Bethnal Green
+central,Bethnal Green,Mile End
+central,Mile End,Stratford
+central,Stratford,Leyton
+central,Leyton,Leytonstone
+central,Leytonstone,Snaresbrook
+central,Snaresbrook,South Woodford
+central,South Woodford,Woodford
+central,Woodford,Buckhurst Hill
+central,Leytonstone,Wanstead
+central,Wanstead,Redbridge
+central,Redbridge,Gants Hill
+central,Gants Hill,Newbury Park
+central,Newbury Park,Barkingside
+central,Barkingside,Fairlop
+central,Fairlop,Hainault
+central,Hainault,Grange Hill
+central,Grange Hill,Chigwell
+central,Chigwell,Roding Valley
+central,Roding Valley,Woodford
+central,Buckhurst Hill,Loughton
+central,Loughton,Debden
+central,Debden,Theydon Bois
+central,Theydon Bois,Epping
+circle,Kings Cross St Pancras,Euston Square
+circle,Euston Square,Great Portland Street
+circle,Great Portland Street,Baker Street
+circle,Baker Street,Edgware Road
+circle,Edgware Road,Paddington
+circle,Paddington,Royal Oak
+circle,Royal Oak,Westbourne Park
+circle,Westbourne Park,Ladbroke Grove
+circle,Ladbroke Grove,Latimer Road
+circle,Latimer Road,Woodland
+circle,Woodland,Shepherds Bush Market
+circle,Shepherds Bush Market,Gold Hawk Road
+circle,Gold Hawk Road,Hammersmith
+circle,Paddington,Bayswater
+circle,Bayswater,Nottinghill Gate
+circle,Nottinghill Gate,High Street Kensington
+circle,High Street Kensington,Gloucester Road
+circle,Gloucester Road,South Kensington
+circle,South Kensington,Sloane Square
+circle,Sloane Square,Victoria
+circle,Victoria,St James Park
+circle,St James Park,Westminster
+circle,Westminster,Embankment
+circle,Embankment,Temple
+circle,Temple,Blackfriars
+circle,Blackfriars,Mansion House
+circle,Mansion House,Cannon Street
+circle,Cannon Street,Monument
+circle,Monument,Tower Hill
+circle,Tower Hill,Aldgate
+circle,Aldgate,Liverpool Street
+circle,Liverpool Street,Moorgate
+circle,Moorgate,Barbican
+circle,Barbican,Farringdon
+circle,Farringdon,Kings Cross St Pancras
+district,Richmond,Kew Gardens
+district,Kew Gardens,Gunnersbury
+district,Gunnersbury,Turnham Green
+district,Ealing Broadway,Ealing Common
+district,Ealing Common,Acton Town
+district,Acton Town,Chiswick Park
+district,Chiswick Park,Turnham Green
+district,Turnham Green,Stamford Brook
+district,Stamford Brook,Ravens Court Park
+district,Ravens Court Park,Hammersmith
+district,Hammersmith,Barons Court
+district,Barons Court,West Kensington
+district,West Kensington,Earls Court
+district,Kensington (Olympia),Earls Court
+district,Wimbledon,Wimbledon Park
+district,Wimbledon Park,Southfields
+district,Southfields,East Putney
+district,East Putney,Putney Bridge
+district,Putney Bridge,Parsons Green
+district,Parsons Green,Fulham Broadway
+district,Fulham Broadway,West Brompton
+district,West Brompton,Earls Court
+district,Earls Court,High Street Kensington
+district,High Street Kensington,Nottinghill Gate
+district,Nottinghill Gate,Bayswater
+district,Bayswater,Paddington
+district,Paddington,Edgware Road
+district,Earls Court,Gloucester Road
+district,Gloucester Road,South Kensington
+district,South Kensington,Sloane Square
+district,Sloane Square,Victoria
+district,Victoria,St James Park
+district,St James Park,Westminster
+district,Westminster,Embankment
+district,Embankment,Temple
+district,Temple,Blackfriars
+district,Blackfriars,Mansion House
+district,Mansion House,Cannon Street
+district,Cannon Street,Monument
+district,Monument,Tower Hill
+district,Tower Hill,Aldgate East
+district,Aldgate East,Whitechapel
+district,Whitechapel,Stepney Green
+district,Stepney Green,Mile End
+district,Mile End,Bow Road
+district,Bow Road,Bromley-by-Bow
+district,Bromley-by-Bow,West Ham
+district,West Ham,Plaistow
+district,Plaistow,Upton Park
+district,Upton Park,East Ham
+district,East Ham,Barking
+district,Barking,Upney
+district,Upney,Becontree
+district,Becontree,Dagenham Heathway
+district,Dagenham Heathway,Dagenham East
+district,Dagenham East,Elm Park
+district,Elm Park,Hornchurch
+district,Hornchurch,Upminster Bridge
+district,Upminster Bridge,Upminster
+hammersmith&city,Hammersmith,Gold Hawk Road
+hammersmith&city,Gold Hawk Road,Shepherds Bush Market
+hammersmith&city,Shepherds Bush Market,Woodland
+hammersmith&city,Woodland,Latimer Road
+hammersmith&city,Latimer Road,Ladbroke Grove
+hammersmith&city,Ladbroke Grove,Westbourne Park
+hammersmith&city,Westbourne Park,Royal Oak
+hammersmith&city,Royal Oak,Paddington
+hammersmith&city,Paddington,Edgware Road
+hammersmith&city,Edgware Road,Baker Street
+hammersmith&city,Baker Street,Great Portland Street
+hammersmith&city,Great Portland Street,Euston Square
+hammersmith&city,Euston Square,Kings Cross St Pancras
+hammersmith&city,Kings Cross St Pancras,Farringdon
+hammersmith&city,Farringdon,Barbican
+hammersmith&city,Barbican,Moorgate
+hammersmith&city,Moorgate,Liverpool Street
+hammersmith&city,Liverpool Street,Aldgate East
+hammersmith&city,Aldgate East,Whitechapel
+hammersmith&city,Whitechapel,Stepney Green
+hammersmith&city,Stepney Green,Mile End
+hammersmith&city,Mile End,Bow Road
+hammersmith&city,Bow Road,Bromley-by-Bow
+hammersmith&city,Bromley-by-Bow,West Ham
+hammersmith&city,West Ham,Plaistow
+hammersmith&city,Plaistow,Upton Park
+hammersmith&city,Upton Park,East Ham
+hammersmith&city,East Ham,Barking
+jubilee,Stanmore,Canons Park
+jubilee,Canons Park,Queensbury
+jubilee,Queensbury,Kingsbury
+jubilee,Kingsbury,Wembley Park
+jubilee,Wembley Park,Neasden
+jubilee,Neasden,Dollis Hill
+jubilee,Dollis Hill,Willesden Green
+jubilee,Willesden Green,Kilburn
+jubilee,Kilburn,West Hampstead
+jubilee,West Hampstead,Finchley Road
+jubilee,Finchley Road,Swiss Cottage
+jubilee,Swiss Cottage,St Johns Wood
+jubilee,St Johns Wood,Baker Street
+jubilee,Baker Street,Bond Street
+jubilee,Bond Street,Green Park
+jubilee,Green Park,Westminster
+jubilee,Westminster,Waterloo
+jubilee,Waterloo,Southwark
+jubilee,Southwark,London Bridge
+jubilee,London Bridge,Bermondsey
+jubilee,Bermondsey,Canada Water
+jubilee,Canada Water,Canary Wharf
+jubilee,Canary Wharf,North Greenwich
+jubilee,North Greenwich,Canning Town
+jubilee,Canning Town,West Ham
+jubilee,West Ham,Stratford
+metropolitan,Chesham,Chalfont & Latimer
+metropolitan,Amersham,Chalfont & Latimer
+metropolitan,Chalfont & Latimer,Chorley Wood
+metropolitan,Chorley Wood,Rickmansworth
+metropolitan,Rickmansworth,Moor Park
+metropolitan,Moor Park,Croxley
+metropolitan,Croxley,Watford
+metropolitan,Moor Park,Northwood
+metropolitan,Northwood,Northwood Hills
+metropolitan,Northwood Hills,Pinner
+metropolitan,Pinner,North Harrow
+metropolitan,North Harrow,Harrow-on-the-Hill
+metropolitan,Harrow-on-the-Hill,West Harrow
+metropolitan,West Harrow,Rayners Lane
+metropolitan,Rayners Lane,Eastcote
+metropolitan,Eastcote,Ruislip Manor
+metropolitan,Ruislip Manor,Ruislip
+metropolitan,Ruislip,Ickenham
+metropolitan,Ickenham,Hillingdon
+metropolitan,Hillingdon,Uxbridge
+metropolitan,Harrow-on-the-Hill,Northwick Park
+metropolitan,Northwick Park,Preston Road
+metropolitan,Preston Road,Wembley Park
+metropolitan,Wembley Park,Finchley Road
+metropolitan,Finchley Road,Baker Street
+metropolitan,Baker Street,Great Portland Street
+metropolitan,Great Portland Street,Euston Square
+metropolitan,Euston Square,Kings Cross St Pancras
+metropolitan,Kings Cross St Pancras,Farringdon
+metropolitan,Farringdon,Barbican
+metropolitan,Barbican,Moorgate
+metropolitan,Moorgate,Liverpool Street
+metropolitan,Liverpool Street,Aldgate
+northern,Edgware,Burnt Oak
+northern,Burnt Oak,Colindale
+northern,Colindale,Hendon Central
+northern,Hendon Central,Brent Cross
+northern,Brent Cross,Golders Green
+northern,Golders Green,Hampstead
+northern,Hampstead,Belsize Park
+northern,Belsize Park,Chalkfarm
+northern,Chalkfarm,Camden Town
+northern,High Barnet,Totteridge & Whetstone
+northern,Totteridge & Whetstone,Woodside Park
+northern,Woodside Park,West Finchley
+northern,West Finchley,Finchley Central
+northern,Mill Hill East,Finchley Central
+northern,Finchley Central,East Finchley
+northern,East Finchley,Highgate
+northern,Highgate,Archway
+northern,Archway,Tufnell Park
+northern,Tufnell Park,Kentish Town
+northern,Kentish Town,Camden Town
+northern,Camden Town,Euston
+northern,Euston,Kings Cross St Pancras
+northern,Kings Cross St Pancras,Angel
+northern,Angel,Oldstreet
+northern,Oldstreet,Moorgate
+northern,Moorgate,Bank
+northern,Bank,London Bridge
+northern,London Bridge,Borough
+northern,Borough,Elephant & Castle
+northern,Elephant & Castle,Kennington
+northern,Camden Town,Mornington Crescent
+northern,Mornington Crescent,Euston
+northern,Euston,Warren Street
+northern,Warren Street,Goodge Street
+northern,Goodge Street,Tottenham Court Road
+northern,Tottenham Court Road,Leicester Square
+northern,Leicester Square,Charing Cross
+northern,Charing Cross,Embankment
+northern,Embankment,Waterloo
+northern,Waterloo,Kennington
+northern,Kennington,Oval
+northern,Oval,Stockwell
+northern,Stockwell,Clapham North
+northern,Clapham North,Clapham Common
+northern,Clapham Common,Clapham South
+northern,Clapham South,Balham
+northern,Balham,Tootingbec
+northern,Tootingbec,Tooting Broadway
+northern,Tooting Broadway,Colliers Wood
+northern,Colliers Wood,South Wimbledon
+northern,South Wimbledon,Morden
+piccadilly,Uxbridge,Hillingdon
+piccadilly,Hillingdon,Ickenham
+piccadilly,Ickenham,Ruislip
+piccadilly,Ruislip,Ruislip Manor
+piccadilly,Ruislip Manor,Eastcote
+piccadilly,Eastcote,Rayners Lane
+piccadilly,Rayners Lane,South Harrow
+piccadilly,South Harrow,Sudbury Hill
+piccadilly,Sudbury Hill,Sudbury Town
+piccadilly,Sudbury Town,Alperton
+piccadilly,Alperton,Park Royal
+piccadilly,Park Royal,North Ealing
+piccadilly,North Ealing,Ealing Common
+piccadilly,Ealing Common,Acton Town
+piccadilly,Heathrow Terminal 4,"Heathrow Terminals 1, 2 & 3"
+piccadilly,"Heathrow Terminals 1, 2 & 3",Heathrow Terminal 5
+piccadilly,"Heathrow Terminals 1, 2 & 3",Hatton Cross
+piccadilly,Hatton Cross,Heathrow Terminal 4
+piccadilly,Hatton Cross,Hounslow West
+piccadilly,Hounslow West,Hounslow Central
+piccadilly,Hounslow Central,Hounslow East
+piccadilly,Hounslow East,Osterley
+piccadilly,Osterley,Boston Manor
+piccadilly,Boston Manor,Northfields
+piccadilly,Northfields,South Ealing
+piccadilly,South Ealing,Acton Town
+piccadilly,Acton Town,Turnham Green
+piccadilly,Turnham Green,Hammersmith
+piccadilly,Hammersmith,Barons Court
+piccadilly,Barons Court,Earls Court
+piccadilly,Earls Court,Gloucester Road
+piccadilly,Gloucester Road,South Kensington
+piccadilly,South Kensington,Knightsbridge
+piccadilly,Knightsbridge,Hyde Park Corner
+piccadilly,Hyde Park Corner,Green Park
+piccadilly,Green Park,Piccadilly Circus
+piccadilly,Piccadilly Circus,Leicester Square
+piccadilly,Leicester Square,Covent Garden
+piccadilly,Covent Garden,Holborn
+piccadilly,Holborn,Russell Square
+piccadilly,Russell Square,Kings Cross St Pancras
+piccadilly,Kings Cross St Pancras,Caledonian Road
+piccadilly,Caledonian Road,Holloway Road
+piccadilly,Holloway Road,Arsenal
+piccadilly,Arsenal,Finsbury Park
+piccadilly,Finsbury Park,Manor House
+piccadilly,Manor House,Turnpike Lane
+piccadilly,Turnpike Lane,Woodgreen
+piccadilly,Woodgreen,Boundsgreen
+piccadilly,Boundsgreen,Arnos Grove
+piccadilly,Arnos Grove,Southgate
+piccadilly,Southgate,Oakwood
+piccadilly,Oakwood,Cockfosters
+victoria,Brixton,Stockwell
+victoria,Stockwell,Vauxhall
+victoria,Vauxhall,Pimlico
+victoria,Pimlico,Victoria
+victoria,Victoria,Green Park
+victoria,Green Park,Oxford Circus
+victoria,Oxford Circus,Warren Street
+victoria,Warren Street,Euston
+victoria,Euston,Kings Cross St Pancras
+victoria,Kings Cross St Pancras,Highbury & Islington
+victoria,Highbury & Islington,Finsbury Park
+victoria,Finsbury Park,Seven Sisters
+victoria,Seven Sisters,Tottenham Hale
+victoria,Tottenham Hale,Blackhorse Road
+victoria,Blackhorse Road,Walthamstow Central
+waterloo&city,Waterloo,Bank
+overground,Euston,South Hampstead
+overground,South Hampstead,Kilburn High Road
+overground,Kilburn High Road,Queens Park
+overground,Queens Park,Kensal Green
+overground,Kensal Green,Willesden Junction
+overground,Willesden Junction,Harlesden
+overground,Harlesden,Stone Bridge Park
+overground,Stone Bridge Park,Wembley Central
+overground,Wembley Central,North Wembley
+overground,North Wembley,South Kenton
+overground,South Kenton,Kenton
+overground,Kenton,Harrow & Wealdstone
+overground,Harrow & Wealdstone,Headstone Lane
+overground,Headstone Lane,Hatch End
+overground,Hatch End,Carpenders Park
+overground,Carpenders Park,Bushey
+overground,Bushey,Watford High Street
+overground,Watford High Street,Watford Junction
+overground,Richmond,Kew Gardens
+overground,Kew Gardens,Gunnersbury
+overground,Gunnersbury,South Acton
+overground,South Acton,Acton Central
+overground,Acton Central,Willesden Junction
+overground,Willesden Junction,Kensal Rise
+overground,Kensal Rise,Brondesbury Park
+overground,Brondesbury Park,Brondesbury
+overground,Brondesbury,West Hampstead
+overground,West Hampstead,Finchley Road & Frognal
+overground,Finchley Road & Frognal,Hampstead Heath
+overground,Hampstead Heath,Gospel Oak
+overground,Gospel Oak,Kentish Town West
+overground,Kentish Town West,Camden Road
+overground,Camden Road,Caledonian Road & Barnsbury
+overground,Caledonian Road & Barnsbury,Highbury & Islington
+overground,Highbury & Islington,Canonbury
+overground,Canonbury,Dalston Kingsland
+overground,Dalston Kingsland,Hackney Central
+overground,Hackney Central,Homerton
+overground,Homerton,Hackney Wick
+overground,Hackney Wick,Stratford
+overground,Willesden Junction,Shepherds Bush
+overground,Shepherds Bush,Kensington (Olympia)
+overground,Kensington (Olympia),West Brompton
+overground,West Brompton,Imperial Wharf
+overground,Imperial Wharf,Clapham Junction
+overground,Canonbury,Dalston Junction
+overground,Dalston Junction,Haggerston
+overground,Haggerston,Hoxton
+overground,Hoxton,Shoreditch High Street
+overground,Shoreditch High Street,Whitechapel
+overground,Whitechapel,Shadwell
+overground,Shadwell,Wapping
+overground,Wapping,Rotherhithe
+overground,Rotherhithe,Canada Water
+overground,Canada Water,Surrey Quays
+overground,Surrey Quays,New Cross
+overground,Newcross Gate,Surrey Quays
+overground,Brockley,Newcross Gate
+overground,Brockley,Honor Oak Park
+overground,Honor Oak Park,Forest Hill
+overground,Forest Hill,Sydenham
+overground,Sydenham,Crystal Palace
+overground,Sydenham,Penge West
+overground,Penge West,Anerley
+overground,Anerley,Norwood Junction
+overground,Norwood Junction,West Croydon
+overground,Surrey Quays,Queens Road Peckham
+overground,Queens Road Peckham,Peckham Rye
+overground,Peckham Rye,Denmark Hill
+overground,Denmark Hill,Clapham High Street
+overground,Clapham High Street,Wandsworth Road
+overground,Wandsworth Road,Clapham Junction
+overground,Gospel Oak,Upper Holloway
+overground,Upper Holloway,Crouch Hill
+overground,Crouch Hill,Harringay Green Lanes
+overground,Harringay Green Lanes,South Tottenham
+overground,South Tottenham,Blackhorse Road
+overground,Blackhorse Road,Walthamstow Queens Road
+overground,Walthamstow Queens Road,Leyton Midland Road
+overground,Leyton Midland Road,Leytonstone High Road
+overground,Leytonstone High Road,Wanstead Park
+overground,Wanstead Park,Woodgrange Park
+overground,Woodgrange Park,Barking
+dlr,Stratford International,Stratford
+dlr,Stratford,Stratford High Street
+dlr,Stratford High Street,Abbey Road
+dlr,Abbey Road,West Ham
+dlr,West Ham,Star Lane
+dlr,Star Lane,Canning Town
+dlr,Canning Town,Royal Victoria
+dlr,Royal Victoria,Custom House
+dlr,Custom House,Prince Regent
+dlr,Prince Regent,Royal Albert
+dlr,Royal Albert,Beckton Park
+dlr,Beckton Park,Cyprus
+dlr,Cyprus,Gallions Reach
+dlr,Gallions Reach,Beckton
+dlr,Canning Town,West Silvertown
+dlr,West Silvertown,Pontoon Dock
+dlr,Pontoon Dock,London City Airport
+dlr,London City Airport,King George V
+dlr,King George V,Woolwich Arsenal
+dlr,Stratford,Pudding Mill Lane
+dlr,Pudding Mill Lane,Bow Church
+dlr,Bow Church,Devons Road
+dlr,Devons Road,Langdon Park
+dlr,Langdon Park,All Saints
+dlr,All Saints,Poplar
+dlr,Poplar,West India Quay
+dlr,West India Quay,Canary Wharf
+dlr,Canary Wharf,Heron Quays
+dlr,Heron Quays,South Quay
+dlr,South Quay,Cross Harbour
+dlr,Cross Harbour,Mudchute
+dlr,Mudchute,Island Gardens
+dlr,Island Gardens,Cutty Sark for Maritime Greenwich
+dlr,Cutty Sark for Maritime Greenwich,Greenwich
+dlr,Greenwich,Deptford Bridge
+dlr,Deptford Bridge,Elverson Road
+dlr,Elverson Road,Lewisham
+dlr,Tower Gateway,Shadwell
+dlr,Shadwell,Limehouse
+dlr,Limehouse,West Ferry
+dlr,West Ferry,Poplar
+dlr,Poplar,Blackwall
+dlr,Blackwall,East India
+dlr,East India,Canning Town
+dlr,Bank,Shadwell
+dlr,West Ferry,West India Quay
