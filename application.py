@@ -27,13 +27,16 @@ df_raw.columns = ['line','station_1','station_2']
 df_nodes = pd.read_csv('./London_Multiplex_Transport/Dataset/london_transport_nodes.txt',sep=' ')
 
 cols={
-    'background': '#F0F0F0'
+    'background': '#F0F0F0',
+    'text': '#7FDBFF',
+    'figure':'#D3D3D3',
+    'header':'#33F9FF'
     
 }
 
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 
-app = dash.Dash(__name__, external_stylesheets=external_stylesheets) 
+app = dash.Dash(__name__)
 app.scripts.config.serve_locally = True
 
 
@@ -45,12 +48,13 @@ app.layout=html.Div(children=[
     ]),
     html.Div(children=[
         html.H3('Start Station',style={'textAlign': 'center'}),
-        dcc.Input(id='start',style={'display': 'inline-block'})
-    ],style={'textAlign': 'center'}),
+        dcc.Dropdown(id='start',options=[{'label':stat_list[i],'value':i} for i in stat_list],
+                    searchable=True)
+    ]),
     html.Div(children=[
         html.H3('End Station',style={'textAlign': 'center'}),
-        dcc.Input(id='end',style={'display': 'inline-block'})
-    ],style={'textAlign': 'center'}),
+        dcc.Dropdown(id='end',options=[{'label':stat_list[i],'value':i} for i in stat_list],searchable=True)
+    ]),
     html.Div(id='out',children=[
         html.Div(id='length',style={'textAlign': 'center'}),
         html.Div(id='path',style={'textAlign': 'center'}),
